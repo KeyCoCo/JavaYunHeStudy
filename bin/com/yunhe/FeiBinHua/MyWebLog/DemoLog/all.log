@@ -1,0 +1,3 @@
+2020-05-09 18:49:28.343 [DEBUG] com.yunhe.feibinhua.MyWebLog.Log4jTest.main[12 line] - 这是一个log
+2020-05-09 18:49:28.358 [INFO ] com.yunhe.feibinhua.MyWebLog.Log4jTest.main[13 line] - 这是一个info日志
+2020-05-09 18:49:28.360 [ERROR] com.yunhe.feibinhua.MyWebLog.Log4jTest.main[14 line] - this is error log
